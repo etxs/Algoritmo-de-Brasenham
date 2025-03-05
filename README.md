@@ -1,2 +1,5 @@
 # Algoritmo-de-Brasenham
-22110136 
+Código de Actividad 3. Algoritmo de Brasenham.
+CETI COLOMOS
+22110136
+6°O1
